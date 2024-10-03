@@ -5,7 +5,7 @@ public class Urun {
 	private String urunAdi;
     private int stokMiktari;
 
-    // Yapıcı metot
+   
     public Urun(String ad, int stok) {
         this.urunAdi = ad;
         this.stokMiktari= stok;
